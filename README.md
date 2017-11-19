@@ -19,7 +19,7 @@ $ npm test - run all tests<br />
 $ cd server - navigate to server directory<br />
 $ npm install - pull all server dependencies<br />
 
-## Build the app and server the server
+## Build the app and start the server
 $ cd ../ - navigate back to root directoy<br />
 $ npm run build - build the app<br />
 - copy the build directory to ./server/build<br />
